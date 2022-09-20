@@ -1,0 +1,2 @@
+import "./Register.scss"
+rafce
